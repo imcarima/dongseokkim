@@ -4,7 +4,7 @@ OS 기초설계
 -Seoul, Korea
 
 -Manchester City Supporter( Since 2016/17 )
--Favourite Player : David Silva, Pill Foden, Heungmin Son
+-Favourite Player : David Silva, Pill Foden, Heungmin Son 
 -Favourite Singer : Leellamarz, Bol4
 
 -Hobby : Playing and Watching Football
